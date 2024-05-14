@@ -1,0 +1,29 @@
+# --------------------------------------------------- // System
+# downgrade                                            # downgrade packages
+trash-cli-git                                        # cli to manage trash files
+libinput-gestures                                    # actions touchpad gestures using libinput
+gestures                                             # gui for libinput-gestures
+fastfetch
+bat
+
+# --------------------------------------------------- // Dependencies
+xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
+
+# --------------------------------------------------- // Gaming
+steam                                                  # gaming platform
+gamemode                                               # daemon and library for game optimisations
+mangohud                                               # system performance overlay
+
+# --------------------------------------------------- // Music
+cava                                                   # audio visualizer
+spotify                                                # proprietary music streaming service
+spicetify-cli                                          # cli to customize spotify client
+
+# --------------------------------------------------- // Apps
+neovim                                               # vim based text editor
+nano
+obsidian
+brave-bin
+bitwarden
+helvum
+code
