@@ -5,6 +5,7 @@ libinput-gestures                                    # actions touchpad gestures
 gestures                                             # gui for libinput-gestures
 fastfetch
 bat
+fisher
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
