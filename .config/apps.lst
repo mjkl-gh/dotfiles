@@ -6,6 +6,9 @@ gestures                                             # gui for libinput-gestures
 fastfetch
 bat
 fisher
+nwg-displays
+mesa-utils
+btop
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
@@ -27,4 +30,5 @@ obsidian
 brave-bin
 bitwarden
 helvum
-code
+visual-studio-code-bin
+github-cli
