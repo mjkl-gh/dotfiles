@@ -3,12 +3,18 @@
 trash-cli-git                                        # cli to manage trash files
 libinput-gestures                                    # actions touchpad gestures using libinput
 gestures                                             # gui for libinput-gestures
-fastfetch
-bat
-fisher
 nwg-displays
 mesa-utils
 btop
+
+# --------------------------------------------------- // Nvidia
+
+# --------------------------------------------------- // Terminal
+fastfetch
+fisher
+github-cli
+bat
+neovim
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
@@ -24,11 +30,9 @@ spotify                                                # proprietary music strea
 spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-neovim                                               # vim based text editor
 nano
 obsidian
 brave-bin
 bitwarden
 helvum
 visual-studio-code-bin
-github-cli
