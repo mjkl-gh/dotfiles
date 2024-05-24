@@ -6,8 +6,18 @@ gestures                                             # gui for libinput-gestures
 nwg-displays
 mesa-utils
 btop
+rsync
+unzip
+zip
+wget
+python-pip
+python-pynvim
+plymouth
+bolt
 
 # --------------------------------------------------- // Nvidia
+nvidia
+nvidia-utils
 
 # --------------------------------------------------- // Terminal
 fastfetch
