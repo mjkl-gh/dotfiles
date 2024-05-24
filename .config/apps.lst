@@ -25,6 +25,8 @@ fisher
 github-cli
 bat
 neovim
+ripgrep
+starship
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
@@ -40,9 +42,9 @@ spotify                                                # proprietary music strea
 spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-nano
 obsidian
 brave-bin
 bitwarden
 helvum
 visual-studio-code-bin
+signal-desktop
