@@ -23,6 +23,10 @@ reflector
 nvidia
 nvidia-utils
 
+# --------------------------------------------------- // Proxmox vdi
+virt-viewer
+tk
+
 # --------------------------------------------------- // Terminal
 fastfetch
 fisher
