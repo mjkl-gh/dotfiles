@@ -44,9 +44,9 @@ spicetify-cli                                          # cli to customize spotif
 # --------------------------------------------------- // Apps
 obsidian
 brave-bin
-bitwarden
 helvum
 signal-desktop
+appimagelauncher
 
 # --------------------------------------------------- // Development
 ansible
