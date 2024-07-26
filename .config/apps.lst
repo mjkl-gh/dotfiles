@@ -17,6 +17,8 @@ bolt
 libva-nvidia-driver
 bind
 nmap
+refind
+refind-btrfs
 reflector
 
 # --------------------------------------------------- // Nvidia
