@@ -48,3 +48,8 @@ bitwarden
 helvum
 visual-studio-code-bin
 signal-desktop
+# --------------------------------------------------- // Printing
+cups
+system-config-printer
+avahi
+nss-mdns
