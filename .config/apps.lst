@@ -14,6 +14,10 @@ python-pip
 python-pynvim
 plymouth
 bolt
+libva-nvidia-driver
+bind
+nmap
+reflector
 
 # --------------------------------------------------- // Nvidia
 nvidia
@@ -46,7 +50,9 @@ obsidian
 brave-bin
 helvum
 signal-desktop
+gparted
 appimagelauncher
+tailscale
 
 # --------------------------------------------------- // Development
 ansible
