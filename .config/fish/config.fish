@@ -30,3 +30,6 @@ abbr .5 'cd ../../../../..'
 # Always mkdir a path (this doesn't inhibit functionality to make a single dir)
 abbr mkdir 'mkdir -p'
 
+# yadm
+alias yl='lazygit --use-config-file "$HOME/.config/yadm/lazygit.yml,$HOME/.config/lazygit/config.yml" --work-tree ~ --git-dir ~/.local/share/yadm/repo.git'
+set -x SSH_AUTH_SOCK /run/user/1000/ssh-agent.socket
