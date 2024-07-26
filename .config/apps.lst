@@ -46,8 +46,12 @@ obsidian
 brave-bin
 bitwarden
 helvum
-visual-studio-code-bin
 signal-desktop
+
+# --------------------------------------------------- // Development
+ansible
+visual-studio-code-bin
+
 # --------------------------------------------------- // Printing
 cups
 system-config-printer
