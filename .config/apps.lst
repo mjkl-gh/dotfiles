@@ -3,8 +3,6 @@
 trash-cli-git                                        # cli to manage trash files
 libinput-gestures                                    # actions touchpad gestures using libinput
 gestures                                             # gui for libinput-gestures
-nwg-displays
-mesa-utils
 btop
 rsync
 unzip
@@ -12,18 +10,24 @@ zip
 wget
 python-pip
 python-pynvim
-plymouth
 bolt
-libva-nvidia-driver
 bind
 nmap
+reflector
+
+# --------------------------------------------------- // Theming
+sddm-theme-tokyo-night-git
 refind
 refind-btrfs
-reflector
+plymouth
+nwg-displays
 
 # --------------------------------------------------- // Nvidia
 nvidia
 nvidia-utils
+nvtop
+libva-nvidia-driver
+mesa-utils
 
 # --------------------------------------------------- // Proxmox vdi
 virt-viewer
@@ -32,7 +36,6 @@ tk
 # --------------------------------------------------- // Terminal
 fastfetch
 fisher
-github-cli
 bat
 neovim
 ripgrep
@@ -59,10 +62,12 @@ signal-desktop
 gparted
 appimagelauncher
 tailscale
+solaar
 
 # --------------------------------------------------- // Development
 ansible
 visual-studio-code-bin
+github-cli
 
 # --------------------------------------------------- // Printing
 cups
